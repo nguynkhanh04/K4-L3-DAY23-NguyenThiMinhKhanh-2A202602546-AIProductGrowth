@@ -2,8 +2,8 @@
 
 - **Họ và tên:** Nguyễn Thị Minh Khánh
 - **MSSV:** 2A202602546
-- **Tên sản phẩm:** [Điền tên sản phẩm của bạn]
-- **Câu chốt loại mô hình:** Chúng tôi là [B2C / B2B / B2B2C] vì [ghi rõ 1 câu lý do theo thực tế hôm nay].
+- **Tên sản phẩm:** UniAdmit AI — Trợ lý AI Tư vấn Tuyển sinh Đại học
+- **Câu chốt loại mô hình:** Chúng tôi là **B2B2C** vì tiền đến từ các trường Đại học/Cao đẳng (phí thuê bao giải pháp AI tuyển sinh hàng năm), người dùng thật là Thí sinh & Phụ huynh tìm hiểu thông tin xét tuyển, và chúng tôi trực tiếp chạm được họ qua Widget Chatbot AI thông minh nhúng trên cổng thông tin tuyển sinh của từng trường.
 
 ---
 
